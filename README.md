@@ -64,3 +64,11 @@ Polarity and Subjective classification with Multitask Learning and BERT Embeddin
 3. Run '/codes/Glove_model.ipynb'
 
 Note: The glove and bert embeddings of both the datasets are provided. Make sure you check the relative paths before running the code and change the file names while saving the model.
+
+## Citation
+```
+@unpublished{ranjan,
+author = "Ranjan Satapathy, Shweta Pardeshi, Erik Cambria",
+title = "Polarity and Subjective classification with Multitask Learning and BERT Embedding"
+}
+```
