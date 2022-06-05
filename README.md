@@ -70,5 +70,7 @@ Note: The glove and bert embeddings of both the datasets are provided. Make sure
 @unpublished{ranjan,
 author = "Ranjan Satapathy, Shweta Pardeshi, Erik Cambria",
 title = "Polarity and Subjective classification with Multitask Learning and BERT Embedding"
+journal = arXiv preprint arXiv:2201.05363
+doi = "https://doi.org/10.48550/arXiv.2201.05363"
 }
 ```
